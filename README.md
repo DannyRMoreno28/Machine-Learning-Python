@@ -1,2 +1,2 @@
 # Machine-Learning
-Este repositorio contiene modelos de ML en Python, organizados por rama: aprendizaje supervisado, no supervisado y refuerzo. Con descripciones detalladas y ejemplos de uso. Un recurso útil para aprender y practicar ML en Python.
+Este repositorio en GitHub contiene una variedad de modelos de machine learning en Python, organizados por ramas de la disciplina, incluyendo aprendizaje supervisado, no supervisado y de refuerzo. Se proporciona una descripción detallada de cada modelo junto con ejemplos de su uso en Python. El objetivo de este repositorio es proporcionar un recurso útil para aquellos interesados en aprender y practicar machine learning en Python.
